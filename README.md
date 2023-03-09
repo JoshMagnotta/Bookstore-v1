@@ -8,4 +8,4 @@ To-Do List
 
 
 Known Issues
-- Out of bounds error during Checkout when an invalid number is entered when trying to add a Book/CD/DVD to cart
+- Out of bounds error during Checkout when an invalid number is entered when trying to add a Book/CD/DVD to cart (Line 208 and 226)
