@@ -2,7 +2,7 @@
 
 To-Do List
 - Create an Inventory super class
-- Remove duplicate code from Books, CDs, and DVDs classes
+- Remove duplicate code from Books, CDs, and DVDs classes (subclasses)
 - Create objects instead of Parallel ArrayLists
 - Payment system
 
