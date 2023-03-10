@@ -5,6 +5,7 @@ To-Do List
 - Remove duplicate code from Books, CDs, and DVDs classes (subclasses)
 - Create objects instead of Parallel ArrayLists
 - Payment system
+- Front end UI
 
 
 Known Issues
